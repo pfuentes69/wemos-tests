@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "wemos-dht11-test"
+		},
+		{
+			"path": "wemos-display-dht11-test"
+		},
+		{
+			"path": "wemos-wifi-multi"
+		},
+		{
+			"path": "wemos-bearssl-example"
+		},
+		{
+			"path": "wemos-blink"
+		}
+	]
+}
