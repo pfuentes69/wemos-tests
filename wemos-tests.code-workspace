@@ -14,6 +14,12 @@
 		},
 		{
 			"path": "wemos-blink"
+		},
+		{
+			"path": "wemos-display-dht11-button"
+		},
+		{
+			"path": "wemos-hcsr501-test"
 		}
 	]
 }
