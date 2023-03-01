@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "wemos-hcsr501-test"
+		},
+		{
+			"path": "wemos-est-test"
 		}
 	]
 }
